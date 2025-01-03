@@ -88,13 +88,13 @@ composer -v
 ## How to install laravel
 
 ```bash
-composer create-project --prefer-dist laravel/laravel
+composer create-project --prefer-dist laravel/laravel project-name
 ```
 
 If you want to create project laravel with version 10.0.0, you can use this command:
 
 ```bash
-composer create-project --prefer-dist laravel/laravel:^10.0
+composer create-project --prefer-dist laravel/laravel:^10.0 project-name
 ```
 
 see more to other versions of laravel, such as 8.0, 9.0, etc.
