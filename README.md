@@ -209,4 +209,4 @@ php artisan make:
 php artisan optimize:clear ## optimize clear
 ```
 ## Try Laravel
-### [Laravel Project](https://github.com/dev15K/LaravelCart)
+### [Laravel Project](https://github.com/dev15K/laravelProject)
